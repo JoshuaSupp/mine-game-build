@@ -1,0 +1,86 @@
+bomb.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.5
+Burnt bomb
+	bounds: 2, 799, 174, 222
+Energhy/Energy1
+	bounds: 2, 448, 125, 125
+Energhy/Energy10
+	bounds: 178, 747, 125, 125
+Energhy/Energy2
+	bounds: 330, 896, 125, 125
+Energhy/Energy3
+	bounds: 2, 321, 125, 125
+Energhy/Energy4
+	bounds: 178, 620, 125, 125
+Energhy/Energy5
+	bounds: 457, 896, 125, 125
+Energhy/Energy6
+	bounds: 2, 194, 125, 125
+Energhy/Energy7
+	bounds: 584, 896, 125, 125
+Energhy/Energy8
+	bounds: 2, 67, 125, 125
+Energhy/Energy9
+	bounds: 711, 896, 125, 125
+Explosion/Explosion1
+	bounds: 75, 15, 50, 50
+Explosion/Explosion10
+	bounds: 129, 317, 50, 50
+Explosion/Explosion11
+	bounds: 129, 265, 50, 50
+Explosion/Explosion12
+	bounds: 129, 213, 50, 50
+Explosion/Explosion13
+	bounds: 129, 161, 50, 50
+Explosion/Explosion14
+	bounds: 129, 109, 50, 50
+Explosion/Explosion15
+	bounds: 129, 57, 50, 50
+Explosion/Explosion16
+	bounds: 127, 5, 50, 50
+Explosion/Explosion17
+	bounds: 305, 822, 50, 50
+Explosion/Explosion2
+	bounds: 305, 770, 50, 50
+Explosion/Explosion3
+	bounds: 305, 718, 50, 50
+Explosion/Explosion4
+	bounds: 305, 666, 50, 50
+Explosion/Explosion5
+	bounds: 305, 614, 50, 50
+Explosion/Explosion6
+	bounds: 295, 562, 50, 50
+Explosion/Explosion7
+	bounds: 357, 844, 50, 50
+Explosion/Explosion8
+	bounds: 357, 792, 50, 50
+Explosion/Explosion9
+	bounds: 409, 844, 50, 50
+Skeleton
+	bounds: 178, 874, 150, 147
+bomb
+	bounds: 2, 575, 174, 222
+exp1
+	bounds: 178, 575, 62, 43
+exp2
+	bounds: 129, 369, 59, 58
+	rotate: 90
+exp3
+	bounds: 129, 430, 57, 69
+exp4
+	bounds: 242, 571, 51, 47
+exp5
+	bounds: 838, 894, 71, 85
+	rotate: 90
+exp6
+	bounds: 925, 900, 79, 65
+exp7
+	bounds: 129, 501, 72, 71
+	rotate: 90
+shadow
+	bounds: 838, 967, 165, 54
+star
+	bounds: 2, 2, 63, 71
+	rotate: 90
